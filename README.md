@@ -29,61 +29,9 @@ Además, está estilizada para que se vea moderna, responsiva y fácil de usar.
 
 ---
 
-## ⚙️ ¿Cómo usarla?
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/weather-app.git
-cd weather-app
-```
-
-2. Instala las dependencias:
-
-```bash
-npm install
-```
-
-3. Crea un archivo `.env` en la raíz del proyecto con tu clave de OpenWeather:
-
-```env
-VITE_WEATHER_API=tu_api_key_aqui
-```
-
-4. Corre la app localmente:
-
-```bash
-npm run dev
-```
-
-5. Abre en tu navegador: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 📦 ¿Cómo subirla a producción?
-
-```bash
-npm run build
-npm run deploy
-```
-
-Esto construye la app y la sube a GitHub Pages (si ya tienes el repositorio configurado).
-
----
-
-## 📝 Notas finales
-
-- Esta app está pensada como proyecto educativo o personal.
-- La clave API se usa desde el frontend, así que **no es privada**. Recomendado solo para pruebas o usar claves con restricciones.
-- Puedes personalizar el diseño, idioma o unidades de medida fácilmente.
-
----
-
 ## 🌐 Demo
 
-_Si ya está en línea, pon aquí tu enlace de GitHub Pages:_
-
-👉 [https://tuusuario.github.io/weather-app](https://tuusuario.github.io/weather-app)
+👉 [https://kale-8.github.io/Weather-App/](https://kale-8.github.io/Weather-App/)
 
 ---
 
